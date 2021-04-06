@@ -1,0 +1,5 @@
+create table ROD{
+    idrod integer primary key not null,
+    nombre varchar2(30),
+    cumpleanho date
+    );
